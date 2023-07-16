@@ -1,0 +1,28 @@
+{
+  "title": "Прочее",
+  "list": [
+    {
+      "name": "Резюме в формате документа pdf",
+      "descriptions": ["Sorokin_CV_Ru.pdf: <a href='./Sorokin_CV_Ru.pdf' target='_blank' rel='noreferrer'>Sorokin_CV_Ru.pdf</a>"]
+    },
+    {
+      "name": "Резюме в формате документа docx",
+      "descriptions": ["Sorokin_CV_Ru.docx (Google docs): <a href='https://docs.google.com/document/d/17IaA8Q07nLoAh_799UVudBAwqCSHsebpN_FYnYKv7K8/' target='_blank' rel='noreferrer'>Sorokin_CV_Ru.docx</a>"]
+    },
+    {
+      "name": "Контакты",
+      "descriptions": [
+        "<a href='https://vk.com/sorokinvladislav' target='_blank' rel='noreferrer'>VK </a>",
+        "<img src='./vs-qr-vk.png' width='111' height='111' alt='click or scan'></img>",
+        "<a href='mailto:sorokinvld@gmail.com'>sorokinvld@gmail.com</a>",
+        "<img src='./vs-qr-gmail.png' width='111' height='111' alt='click or scan'></img>",
+        "<a href='https://www.facebook.com/sorokinvld'>Facebook </a>",
+        "<img src='./vs-qr-fb.png' width='111' height='111' alt='click or scan'></img>",
+        "<a href='https://t.me/Sorokinvld'>Telegram </a>",
+        "<img src='./vs-qr-tg.png' width='111' height='111' alt='click or scan'></img>",
+        "<a href='https://wa.me/79169311448'>Whatsapp </a>",
+        "<img src='./vs-qr-wa.png' width='111' height='111' alt='click or scan'></img>"
+      ]
+    }
+  ]
+}

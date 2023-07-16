@@ -1,0 +1,271 @@
+{
+  "title": "Опыт работы",
+  "list": [
+    { "name": "ПАО Сбербанк",
+      "position": "Руководитель проектов — ИТ-архитектор",
+      "startDate": "01.21",
+      "endDate": "04.22",
+      "description": "Департамент корпоративной архитектуры",
+      "projects": [
+        {
+          "title": {
+            "text": "Руководитель проектов",
+            "githubLink": "https://github.com/depromeet/ahmatda-web",
+            "otherLink": "https://github.com/depromeet/ahmatda-web#download"
+          },
+          "description": "Управление проектами блока «Технологии».",
+          "startDate": "01.21",
+          "endDate": "04.22",
+          "which": [
+            "Управление проектами c применением гибких методологий разработки.",
+            "Внесение изменений в существующие и создание новых внутренних метологических подходов.",
+            "Разработка и внедрение стандартов проектирования архитектурных решений.",
+            "Проведение аналитики и анализ результатов портфеля проектов.",
+            "Моделирование процессов архитектурного сопровождения бизнес-подраздлелений."
+          ],
+          "techStack": [
+            "Next.js",
+            "React-Native",
+            "TypeScript",
+            "Emotion",
+            "Framer-motion",
+            "Recoil",
+            "TanStack/React Query",
+            "Jest",
+            "React Testing Library",
+            "Codecov",
+            "Playwright",
+            "Github actions",
+            "CodeQL",
+            "Husky",
+            "GA",
+            "Hotjar",
+            "Mixpanel",
+            "Cloudflare Pages"
+          ]
+        },
+        {
+          "title": {
+            "text": "ИТ-Архитектор",
+            "githubLink": "https://github.com/depromeet/www.depromeet.com",
+            "otherLink": "https://www.depromeet.com"
+          },
+          "description": "Обечпечение архитектурного надзора блока Казначейство",
+          "startDate": "01.21",
+          "endDate": "04.22",
+          "which": [
+            "Проектирование подходов по миграции legacy-систем в cloud-ready/native среду",
+            "Изменение и согласование архитектур приложений казначейства.",
+            "Проектирование архитектур и вывод в промышленный контур приложений для Data Scientist в части работы с моделями AI.",
+            "Разработке единой инфраструктурной среды открытых API.",
+            "Разработка бизнес и ИТ-стратегии банка.",
+            "Определение подходов по организации ИТ-инфраструктуры экосистемы.",
+            "Завершил программу повышения квалификации Сертифицированный архитектор Сбербанка (Sber Certified Architect)."
+          ],
+          "techStack": [
+            "Next.js",
+            "TypeScript",
+            "Emotion",
+            "Framer-motion",
+            "Github actions",
+            "next-sitemap",
+            "GA",
+            "Hotjar",
+            "Husky",
+            "Vercel"
+          ]
+        }
+      ]
+    },
+    { "name": "Банк России (ЦБРФ)",
+      "position": "Эксперт, Главный консультант",
+      "startDate": "09.16",
+      "endDate": "12.20",
+      "description": "Департамент финансовых технологий",
+      "projects": [
+        {
+          "title": {
+            "text": "Эксперт",
+            "githubLink": null,
+            "otherLink": "https://gdsc.community.dev/sungkonghoe-university/"
+          },
+          "description": "Разработка аналитической и проектной документации.",
+          "startDate": "2022.08",
+          "endDate": null,
+          "which": [
+            "Разработка аналитических материалов в части технологии распределенных реестров, криптовалют.",
+            "Моделирование процессов финтех-рынка РФ, анализ перспективных проектов и решений.",
+            "Разработка стандартов использования OpenAPI на финансовом рынке",
+            "Консультации технического характера по направлению работы регуляторной песочницы",
+          ],
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "Главный консультант",
+            "githubLink": null,
+            "otherLink": "https://www.gdsc-skhu.com/"
+          },
+          "description": "GDSC 소개와 모집을 위한 랜딩 페이지를 개발하였습니다.",
+          "startDate": "2022.08",
+          "endDate": "2022.08",
+          "which": [
+            "Разработка архитектур, ФТ, ТЗ.",
+            "Управление проектами",
+            "Проектирование, разработка и запуск инновационных технологических решений на финансовом рынке.", 
+            "Разработка концепций платформ: Единая биометрическая система, Цифровой рубль",
+            "Разработка концепций, требований и необходимых изменений в законодательство для платформы Система быстрых платежей",
+            "Разработка концепций, требований, изменений в НПА и выбор технологического решения платформы Мастерчейн)",
+            "Подготовка законодательных изменений, стандартов финансового рынка, иных нормативных и методологических документов (напр. закон о ЦФА)",
+            "Учреждение и координация деятельности Ассоциации развития финансовых технологий",
+            "Разработка стратегии «Основные направления развития финансового рынка»"
+          ],
+          "techStack": [
+            "Next.js",
+            "TypeScript",
+            "Emotion",
+            "Framer-motion",
+            "Three.js",
+            "React-three-fiber",
+            "GA",
+            "Vercel"
+          ]
+        }
+      ]
+    },
+    { "name": "АО ЮниКредит Банк",
+      "position": "Консультант",
+      "startDate": "04.2014",
+      "endDate": "12.2014",
+      "description": "Правление",
+      "projects": [
+        {
+          "title": {
+            "text": "Консультант по внедрению European Market Infrastructure Regulation",
+            "githubLink": "https://github.com/hyesungoh/comet-land",
+            "otherLink": "https://comet-land-blog.vercel.app/"
+          },
+          "description": "Внедрение регуляторных требований о внебиржевых производных инструментах, центральных контрагентах и торговых репозиториях (European Market Infrastructure Regulation).",
+          "startDate": "04.2014",
+          "endDate": "12.2014",
+          "which": [
+            "Управление проектом по внедрению европейских регуляторных требований о внебиржевых производных инструментах, центральных контрагентах и торговых репозиториях (European Market Infrastructure Regulation).",
+            "Проектирование, разработка и запуск технологического решения по интеграции платформ Bloomberg Terminal и MarkitSERV",
+            "Управление проектом по интеграции внутренних торговых систем",
+            "<a href='https://github.com/hyesungoh/comet-land/blob/f58f27480391b50adea2f3a3b944dd87318852ee/apps/blog/scripts/generate-static-files.mjs' target='_blank' rel='noreferrer'>정적 파일 생성을 자동화</a>하였습니다.",
+            "회고는 <a href='https://www.hyesungoh.xyz/comet-land-0-intro/' target='_blank' rel='noreferrer'>다음 링크</a>에서 확인하실 수 있습니다."
+          ],
+          "techStack": [
+            "Next.js",
+            "TypeScript",
+            "NextUI",
+            "Turborepo",
+            "KBar",
+            "GA",
+            "Hotjar",
+            "Vercel",
+            "Github actions",
+            "Jest",
+            "React Testing Library",
+            "Cypress"
+          ]
+        },
+        {
+          "title": {
+            "text": "create-comet-land",
+            "githubLink": "https://github.com/hyesungoh/create-comet-land",
+            "otherLink": "https://www.npmjs.com/package/create-comet-land"
+          },
+          "description": "comet-land 프로젝트를 더욱 쉽게 시작할 수 있도록 개발하였습니다.",
+          "startDate": "2022.06",
+          "endDate": null,
+          "which": [
+            "동적이며 아름답게 보여짐과 동시에 관리에 용이할 것이라 판단하여 React와 Ink를 사용하였습니다.",
+            "Shelljs를 이용해 git clone 후, fs 모듈을 이용해 파일을 수정하는 방법으로 개발하였습니다.",
+            "Github actions를 이용해 릴리즈시 NPM에 배포되도록 CD를 구축하였습니다.",
+            "회고는 <a href='https://www.hyesungoh.xyz/create-comet-land' target='_blank' rel='noreferrer'>다음 링크</a>에서 확인하실 수 있습니다."
+          ],
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Ink",
+            "Shelljs",
+            "Webpack",
+            "Github actions"
+          ]
+        }
+      ]
+    },
+    { "name": "Банк России (ЦБРФ)",
+      "position": "Стажер",
+      "startDate": "04.12",
+      "endDate": "06.2012",
+      "description": "Департамент банковского надзора",
+      "projects": [
+        {
+          "title": {
+            "text": "Стажер",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Проведение надзорных меропрятий",
+          "startDate": "2021.07",
+          "endDate": "2021.12",
+          "which": [
+            "Анализ отчетности банков",
+            "Мониторинг процедур исполнения банками базельских требований, выполнения нормативов ЦБ РФ, требований к резервам и достаточности капитала и пр.",
+            "Анализ бизнес-моделей и стратегий коммерческих банков",
+            "Анализ деятельности системообразующих банков",
+            "Подготовка отчетности для руководства",
+            "URL <a href='https://www.vladislavsorokin.ru/' target='_blank' rel='noreferrer'>URL."
+          ],
+          "techStack": [
+            "React",
+            "TypeScript",
+            "Styled-components",
+            "Framer-motion",
+            "Recoil",
+            "SWR",
+            "AWS S3",
+            "AWS CF",
+            "Github actions",
+            "GA",
+            "Sentry"
+          ]
+        }
+      ]
+    },
+    { "name": "ОСАО Ингосстрах",
+      "position": "Стажер",
+      "startDate": "06.2011",
+      "endDate": "08.2011",
+      "description": "Департамент внешних связей",
+      "projects": [
+        {
+          "title": {
+            "text": "Стажер",
+            "githubLink": null,
+            "otherLink": null
+          },
+          "description": "Корпоративное делопроизводство",
+          "startDate": "2022.01",
+          "endDate": "2022.02",
+          "which": [
+            "Обеспечение бесперебойности работы корпоративного документооборота",
+            "Подготовка отчетности для руководства в части деятельности филиалов компании"
+          ],
+          "techStack": [
+            "Next.js",
+            "TypeScript",
+            "Emotion",
+            "Framer-motion",
+            "Lottie",
+            "GA",
+            "Hotjar",
+            "Vercel"
+          ]
+        }
+      ]
+    }
+  ]
+}

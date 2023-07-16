@@ -1,0 +1,56 @@
+{
+  "title": "ОБРАЗОВАНИЕ",
+  "list": [
+    {
+      "title": {
+        "text": "Финансовый Университет при Правительстве Российской Федерации",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "Бакалавр, магистр",
+      "startDate": "08.2009",
+      "endDate": "06.2015",
+      "description":[], 
+      "which": [
+      "Бакалавриат, факультет Финансы и Кредит, Кафедра Денежно-кредитные отношения и монетарная политика",
+      "Магистерская программа Международный финансовый факультет, Специальность Международный финансовый менеджмент"
+      ]
+    },
+    {
+      "title": {
+        "text": "Владение иностранными языками — Английский",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "Vantage",
+      "startDate": "2022.06",
+      "endDate": "2022.12",
+      "description": "Cambridge ESOL Level Certificate 2011.",
+      "which": []
+    },
+    {
+      "title": {
+        "text": "Собственные проекты",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "h",
+      "startDate": null,
+      "endDate": null,
+      "description": [],
+      "which": [
+        "<a href='https://prtl.cc/' target='_blank' rel='noreferrer'>Проект ПОРТАЛ</a>",
+        "<a href='https://web.message.bouqtique/' target='_blank' rel='noreferrer'>Мессенджер</a>",
+        "<a href='https://l.message.bouqtique/' target='_blank' rel='noreferrer'>Мессенджер — лайт-версия</a>",
+        "<a href='https://light.message.bouqtique/' target='_blank' rel='noreferrer'>Мессенджер — лайт-версия 2</a>",
+        "<a href='https://apps.apple.com/ru/app/dialog/id1635957746/' target='_blank' rel='noreferrer'>Мессенджер для iOS</a>",
+        "<a href='https://deep-mind.ru/' target='_blank' rel='noreferrer'>Лаборатория Deep-mind</a>",
+        "<a href='https://id.prtl.cc/' target='_blank' rel='noreferrer'>Digital ID, беспарольный доступ</a>",
+        "<a href='https://search.prtl.cc/' target='_blank' rel='noreferrer'>Поисковик</a>",
+        "<a href='https://i.prtl.cc/' target='_blank' rel='noreferrer'>Персональная домашняя страница</a>",
+        "<a href='https://dialog.pics/'>Dialog-картинки (аналог Инст***м)</a>",
+        "<a href='https://semaphore.life/'>Децентрализованная социальная сеть (аналог Fa****ok/Tw***er)</a>"
+      ]
+    }
+  ]
+}
