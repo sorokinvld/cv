@@ -1,0 +1,18 @@
+[35mresume:build: [0mcache hit, replaying output [2m595783e9ab114d1a[0m
+[35mresume:build: [0myarn run v1.22.19
+[35mresume:build: [0m$ node ./scripts/generate-static-files.mjs
+[35mresume:build: [0mfile:///root/cv/apps/resume/scripts/generate-static-files.mjs:3
+[35mresume:build: [0mimport { format } from 'prettier';
+[35mresume:build: [0m         ^^^^^^
+[35mresume:build: [0mSyntaxError: Named export 'format' not found. The requested module 'prettier' is a CommonJS module, which may not support all module.exports as named exports.
+[35mresume:build: [0mCommonJS modules can always be imported via the default export, for example using:
+[35mresume:build: [0m
+[35mresume:build: [0mimport pkg from 'prettier';
+[35mresume:build: [0mconst { format } = pkg;
+[35mresume:build: [0m
+[35mresume:build: [0m    at ModuleJob._instantiate (node:internal/modules/esm/module_job:124:21)
+[35mresume:build: [0m    at async ModuleJob.run (node:internal/modules/esm/module_job:190:5)
+[35mresume:build: [0m
+[35mresume:build: [0mNode.js v18.16.1
+[35mresume:build: [0merror Command failed with exit code 1.
+[35mresume:build: [0minfo Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.

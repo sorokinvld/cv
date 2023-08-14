@@ -1,6 +1,48 @@
 {
   "title": "Опыт работы",
   "list": [
+    { "name": "АО Портал",
+      "position": "Основатель — генеральный-архитектор",
+      "startDate": "-",
+      "endDate": "-",
+      "description": "Разработка ПО",
+      "projects": [
+        {
+          "title": {
+            "text": "CEO",
+            "githubLink": "https://github.com/depromeet/ahmatda-web",
+            "otherLink": "https://github.com/depromeet/ahmatda-web#download"
+          },
+          "description": "Управление проектами блока «Технологии».",
+          "startDate": "01.21",
+          "endDate": "04.22",
+          "which": [
+            "Создание маркетплейса ИИ-приложений и разработка проограммного обеспечения.",
+            "etc.",
+          ],
+          "techStack": [
+            "Next.js",
+            "React-Native",
+            "TypeScript",
+            "Emotion",
+            "Framer-motion",
+            "Recoil",
+            "TanStack/React Query",
+            "Jest",
+            "React Testing Library",
+            "Codecov",
+            "Playwright",
+            "Github actions",
+            "CodeQL",
+            "Husky",
+            "GA",
+            "Hotjar",
+            "Mixpanel",
+            "Cloudflare Pages"
+          ]
+        }
+      ]
+    },
     { "name": "ПАО Сбербанк",
       "position": "Руководитель проектов — ИТ-архитектор",
       "startDate": "01.21",

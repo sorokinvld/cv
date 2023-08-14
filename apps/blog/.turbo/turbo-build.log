@@ -1,0 +1,3 @@
+[32mblog:build: [0mcache hit, replaying output [2m682c359ef982f98c[0m
+[32mblog:build: [0myarn run v1.22.19
+[32mblog:build: [0m$ node ./scripts/generate-static-files.mjs

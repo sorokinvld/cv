@@ -15,16 +15,14 @@ function generateSitemap() {
     </url>
   </urlset>
   `;
-
   const formattedSitemap = format(sitemap, { parser: 'html' });
-  writeFileSync('public/sitemap.xml', formattedSitemap);
+  writeFileSync('public/sitemap.xml', JSON.stringify(formattedSitemap));
 }
 
 function generateRobots() {
   const robots = `User-agent: *
 Sitemap: ${resumeUrl}/sitemap.xml`;
-
-  writeFileSync('public/robots.txt', robots);
+  writeFileSync('public/robots.txt', JSON.stringify(robots));
 }
 
 generateSitemap();

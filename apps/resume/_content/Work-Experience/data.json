@@ -1,6 +1,48 @@
 {
   "title": "Опыт работы",
   "list": [
+    { "name": "АО Портал",
+      "position": "Основатель — генеральный-архитектор",
+      "startDate": "-",
+      "endDate": "-",
+      "description": "Разработка ПО",
+      "projects": [
+        {
+          "title": {
+            "text": "CEO",
+            "githubLink": "https://github.com/",
+            "otherLink": "https://github.com/"
+          },
+          "description": "Управление проектами блока «Технологии».",
+          "startDate": "01.21",
+          "endDate": "04.22",
+          "which": [
+            "Создание маркетплейса ИИ-приложений и разработка проограммного обеспечения.",
+            "etc.  <a href='https://prtl.cc'>АО ПОРТАЛ</a>"
+          ],
+          "techStack": [
+            "Next.js",
+            "React-Native",
+            "TypeScript",
+            "Emotion",
+            "Framer-motion",
+            "Recoil",
+            "TanStack/React Query",
+            "Jest",
+            "React Testing Library",
+            "Codecov",
+            "Playwright",
+            "Github actions",
+            "CodeQL",
+            "Husky",
+            "GA",
+            "Hotjar",
+            "Mixpanel",
+            "Cloudflare Pages"
+          ]
+        }
+      ]
+    },
     { "name": "АО «Санкт-Петербургская Валютная Биржа»",
       "position": "Руководитель продукта",
       "startDate": "01.21",

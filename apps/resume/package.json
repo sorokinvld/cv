@@ -15,6 +15,7 @@
     "@emotion/styled": "^11.8.1",
     "@nextui-org/react": "^1.0.0-beta.9",
     "core": "*",
+    "fs": "^0.0.1-security",
     "kbar": "^0.1.0-beta.33",
     "next": "^12.1.0",
     "next-themes": "^0.1.1",
@@ -22,10 +23,12 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@types/react": "^18.0.28",
+    "@trivago/prettier-plugin-sort-imports": "^4.2.0",
+    "@types/react": "^18.0.1",
     "compression-webpack-plugin": "^9.2.0",
     "config": "*",
     "next-transpile-modules": "^9.0.0",
+    "prettier": "^3.0.1",
     "tsconfig": "*"
   }
 }
